@@ -19,8 +19,8 @@
  </dependencies>
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>17.0</maven.compiler.source>
+        <maven.compiler.target>17.0</maven.compiler.target>
     </properties>
 
     <build>
@@ -38,7 +38,7 @@
                         <configuration>
                             <failOnError>false</failOnError>
                             <doclint>none</doclint>
-                            <javadocExecutable>C:\Program Files\Java\jdk1.8.0\bin\javadoc.exe</javadocExecutable>
+                            <javadocExecutable>D:\softwares\jdk-17.0.3.1\bin\javadoc.exe</javadocExecutable>
                         </configuration>
                     </execution>
                 </executions>
